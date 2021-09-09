@@ -171,9 +171,9 @@ void get_step()
 	uint temp_step=0;
 	//uint comdata[3];
 	uint axis_x,axis_y,axis_z;
-	axis_info_t  sample;
-	filter_avg_t  filter;
-	axis_info_t  cur_sample;
+	axis_info_t xdata sample;
+	filter_avg_t xdata filter;
+	axis_info_t xdata cur_sample;
 	peak_value_t xdata peak;
 	slid_reg_t xdata slid;
 	

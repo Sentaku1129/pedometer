@@ -3,7 +3,7 @@
 #ifndef __IIC_H_
 #define __IIC_H_
 
-#include <reg51.h>
+#include <reg52.h>
 
  
 #ifndef  uchar

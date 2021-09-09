@@ -1,4 +1,4 @@
-#include <reg51.h>
+#include <reg52.h>
 #include <intrins.h>
 #include "IIC.h"
 #include "DELAY.h"
