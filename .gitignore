@@ -9,13 +9,15 @@
 *.lnp
 *.lst
 *.ini
-*.iex
+*.hex
 *.sct
 *.scvd
 *.uvguix
 *.dbg*
 *.uvguix.*
 .mxproject
+.gitignore
+*..魏兴湖
 RTE/
 Templates/
 Examples/
